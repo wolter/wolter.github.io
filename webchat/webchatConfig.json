@@ -1,5 +1,5 @@
 {
-	"flow": "augusta_chat",
+	"flow": "AugustaChat",
 	"baseUrl": "https://admin.demo.cognigy.cloud",
 	"apikey": "LjdNCgg46mZLRHId",
 	"designTemplate": 2,

@@ -6,5 +6,6 @@
     "colorScheme": "#FF0000",
     "user": "kasperIsTheBest",
     "locale": "de-DE",
-    "resetContext": false
+    "resetContext": false,
+    "getStartedText": null
 }

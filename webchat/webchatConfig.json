@@ -4,5 +4,7 @@
     "apikey": "LjdNCgg46mZLRHId",
     "designTemplate": 2,
     "colorScheme": "#FF0000",
-    "user": "kasperIsTheBest"
+    "user": "kasperIsTheBest",
+    "getStartedText": "STARTE CHAT",
+    "resetContext": true
 }

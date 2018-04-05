@@ -2,7 +2,7 @@
     "flow": "AugustaChat",
     "baseUrl": "https://api.demo.cognigy.cloud",
     "apikey": "LjdNCgg46mZLRHId",
-    "designTemplate": 1,
+    "designTemplate": 2,
     "colorScheme": "#FF0000",
     "user": "kasperIsTheBest",
     "getStartedText": "Starte Chat",

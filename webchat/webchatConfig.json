@@ -1,8 +1,8 @@
 {
-	"flow": "AugustaChat",
-	"baseUrl": "https://admin.demo.cognigy.cloud/",
-	"apikey": "LjdNCgg46mZLRHId",
-	"designTemplate": 2,
+    "flow": "AugustaChat",
+    "baseUrl": "https://api.demo.cognigy.cloud",
+    "apikey": "LjdNCgg46mZLRHId",
+    "designTemplate": 2,
     "colorScheme": "#FF0000",
     "user": "kasperIsTheBest"
 }

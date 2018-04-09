@@ -7,5 +7,7 @@
     "user": "kasperIsTheBest",
     "locale": "de-DE",
     "resetContext": false,
-    "getStartedText": "..."
+    // "messageLogoUrl": "https://...",
+    // "headerLogoUrl": "https://...",
+    "getStartedText": "Los geht's..."
 }

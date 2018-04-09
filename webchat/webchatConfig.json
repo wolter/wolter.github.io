@@ -7,5 +7,6 @@
     "user": "kasperIsTheBest",
     "locale": "de-DE",
     "resetContext": false,
-    "getStartedText": "Los geht's..."
+    "getStartedText": "Los geht's...",
+    "getStartedPayload": "Start"
 }

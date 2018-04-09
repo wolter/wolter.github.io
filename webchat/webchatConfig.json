@@ -1,6 +1,6 @@
 {
     "flow": "AugustaChat",
-    "baseUrl": "https://api-mwsg.cognigy.cloud",
+    "baseUrl": "https://api-mwsg.cognigy.cloud/",
     "apikey": "LE4LBcJHsa8fXCtRd5qtcxGCnTTXhGNP",
     "designTemplate": 2,
     "colorScheme": "#FF0000",
